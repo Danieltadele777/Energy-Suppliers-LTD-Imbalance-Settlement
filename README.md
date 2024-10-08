@@ -39,7 +39,7 @@ The following Key Performance Indicators (KPIs) were used to measure and assess 
  - [Recommendations](#recommendations)
  - [Limitations](#limitations)
  - [References](#references)
- - [Presentation Video](#presentation-video)
+ - [Presentation Python Colab link](#presentation-python-colab-link)
 
 ### Task Overview
 In this analysis, I performed a reconciliation of imbalances between energy supply and demand for Energy Suppliers Ltd. The goal was to analyze discrepancies between the company's internal metered data (POD data) and the allocation data reported by various DSOs (Distribution System Operators). By identifying these imbalances, the analysis provided valuable insights into energy management and operational efficiency.
@@ -126,5 +126,5 @@ DSO-Level Differences:
 - Data from Energy Suppliers Ltd (Internal metered POD data and DSO allocation data).
 - Python libraries: pandas, NumPy, Matplotlib.
 
-### Presentation Video
-- [presentation video]
+### Presentation Python Colab link
+- [click this link to access the interactive Python code in Colab](https://colab.research.google.com/drive/1ADTUL_3IOzXtuPl52zqW7kE6ZJAJqxj8?usp=sharing)
