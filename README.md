@@ -1,6 +1,8 @@
 # Energy-Suppliers-LTD-Imbalance-Settlement
 ### Introduction
-In this analysis, I focused on reconciling energy imbalances for Energy Suppliers Ltd(name modified to keep privacy). The task was to identify and analyze discrepancies between ES's internal metered data from individual Points of Delivery (PODs) and the allocation data reported by Distribution System Operators (DSOs). By exploring these imbalances, I aimed to provide actionable insights to optimize energy supply, prevent financial discrepancies, and improve the accuracy of energy reporting between EES and its network partners. 
+In this analysis, I focused on reconciling energy imbalances for Energy Suppliers Ltd(name modified to keep privacy). The task was to identify and analyze discrepancies between ES's internal metered data from individual Points of Delivery (PODs) and the allocation data reported by Distribution System Operators (DSOs).
+
+By exploring these imbalances, I aimed to provide actionable insights to optimize energy supply, prevent financial discrepancies, and improve the accuracy of energy reporting between EES and its network partners. 
 
 The analysis involved data cleaning, exploratory analysis, hypothesis testing, and visualization to identify patterns and areas requiring intervention.
 
