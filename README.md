@@ -99,7 +99,6 @@ DSO-Level Differences:
 <img width="1222" alt="9" src="https://github.com/user-attachments/assets/121818a4-fea3-4413-88e3-59707662ddb5">
 <img width="886" alt="10" src="https://github.com/user-attachments/assets/f19eef95-c582-401c-95f9-2f499cff775f">
 <img width="1009" alt="11" src="https://github.com/user-attachments/assets/cf771406-1cbd-4d48-b443-9a92b8dec740">
-<img width="1348" alt="12" src="https://github.com/user-attachments/assets/c0c3678d-3a99-4ce0-881c-bef0324e3e81">
 <img width="1097" alt="13" src="https://github.com/user-attachments/assets/f1eba906-9118-471b-aa53-b9092665d83c">
 <img width="1010" alt="14" src="https://github.com/user-attachments/assets/ecb9a6b6-7faa-43be-9655-29ed2e451b4e">
 <img width="941" alt="15" src="https://github.com/user-attachments/assets/d5b6c631-2e15-4243-83f5-e4f194b91249">
