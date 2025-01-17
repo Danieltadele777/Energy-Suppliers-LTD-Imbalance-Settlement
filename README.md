@@ -91,9 +91,6 @@ DSO-Level Differences:
 - Discrepancies could lead to financial losses if not addressed, particularly in reconciling energy transactions.
 
 ### Python Visualization
-<img width="1430" alt="1" src="https://github.com/user-attachments/assets/3341d16a-4d08-4b9c-a02c-a56439a18195">
-<img width="1467" alt="2" src="https://github.com/user-attachments/assets/38431359-b6a8-4d82-900d-c34ff4ce7738">
-<img width="1470" alt="3" src="https://github.com/user-attachments/assets/cff4a6d1-4345-4b18-bf08-cd307eeb1dfa">
 <img width="1430" alt="4" src="https://github.com/user-attachments/assets/50185907-5803-4f16-8ab7-50d9fde436ed">
 <img width="1429" alt="5" src="https://github.com/user-attachments/assets/baacf80b-797e-47af-88b9-d58abf41746b">
 <img width="1455" alt="6" src="https://github.com/user-attachments/assets/648ab416-3a0c-45b0-a60a-654787f5b1df">
@@ -123,10 +120,3 @@ DSO-Level Differences:
 - The analysis was limited to the data available for 100 PODs, which may not fully represent all energy distribution points.
 - The project focused on historical data; real-time analysis would provide better insights into current operations.
 - Assumptions made during data cleaning (such as filling in missing data) may introduce some bias into the analysis.
-
-### References
-- Data from Energy Suppliers Ltd (Internal metered POD data and DSO allocation data).
-- Python libraries: pandas, NumPy, Matplotlib.
-
-### Presentation Python Colab link
-- [click this link to access the interactive Python code in Colab](https://colab.research.google.com/drive/1ADTUL_3IOzXtuPl52zqW7kE6ZJAJqxj8?usp=sharing)
